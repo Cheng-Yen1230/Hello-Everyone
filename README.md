@@ -1,3 +1,4 @@
-# Hello-World
+# Self-introduction
 Hello everyone this is my first time using GitHub
 I love programming languages ! ! ! ! !
+Currently a college student, good at programming language python...
